@@ -1,1 +1,1 @@
-scoreboard objectives add Hippogriff dummy
+scoreboard objectives add Seapony dummy
